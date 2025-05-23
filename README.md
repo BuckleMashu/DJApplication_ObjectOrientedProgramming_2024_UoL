@@ -1,7 +1,8 @@
 # DJApplication_ObjectOrientedProgramming_2024_UoL
 
 This repository contains the end-of-term assignment for the CM2005 Object Oriented Programming module. The project involves developing a DJ application using the JUCE C++ framework, demonstrating core audio playback functionalities, user interface customization, and the implementation of an advanced DJ feature researched from existing applications.
-Code Origin and Development Approach:
+
+- Code Origin and Development Approach:
 
 To provide transparency into the development process, the source code contributions are indicated as follows (refer to the "oop codes final that i wrote.pdf" for visual highlighting in the codebase):
 
@@ -13,7 +14,10 @@ To provide transparency into the development process, the source code contributi
 
     No Highlight / Course Material: Code or concepts directly derived from the learning materials and examples provided on Coursera for this module.
 
-Project Structure & Tasks:
+- DJ Application UI:
+![image](projucer_djApp_UI.png)
+
+- Project Structure & Tasks:
 
 The assignment is broken down into three main tasks:
 

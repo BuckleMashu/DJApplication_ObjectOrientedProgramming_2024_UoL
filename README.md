@@ -14,6 +14,8 @@ To provide transparency into the development process, the source code contributi
 
     No Highlight / Course Material: Code or concepts directly derived from the learning materials and examples provided on Coursera for this module.
 
+- The DJ Application Demo: https://youtu.be/2DdrxL9unZg
+
 - DJ Application UI:
 
 ![image](projucer_djApp_UI.png)
